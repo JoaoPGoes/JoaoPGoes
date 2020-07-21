@@ -1,3 +1,7 @@
+<td>
+![Programming](~/../programming.svg)
+</td>
+
 ### Hey, I'm João Pedro Goes! 👋
 
 <p>💻 I'm a Computer Science Academic</p>
