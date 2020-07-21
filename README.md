@@ -1,5 +1,4 @@
 <td>
-![Programming](~/../programming.svg)
 </td>
 
 ### Hey, I'm João Pedro Goes! 👋
