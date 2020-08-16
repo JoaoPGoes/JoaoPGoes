@@ -6,7 +6,7 @@
 ### What I'm learning on 🕵️‍♂️
 
 <p>📕 Test-Driven Development (TDD)</p>
-<p>📘 Design Patterns </p>
+<p>📘 NodeJS </p>
 
 ### What I'm working on 🏃‍♂️
 
